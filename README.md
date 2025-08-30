@@ -11,7 +11,7 @@ Student at Uppsala University, B.Sc Information Systems - Systems Development.
 </p>
 
 
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://education.oracle.com/file/general/p-80-java.png" width="36" height="36" alt="C#" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://education.oracle.com/file/general/p-80-java.png" width="36" height="36" alt="Java" /></a>
 
 
 ### Socials
